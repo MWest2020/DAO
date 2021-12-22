@@ -4,8 +4,9 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-image: linear-gradient(rgb(60, 85, 139), #000);
+
+  color: rgb(89, 231, 212);
   overflow-x: hidden;
 }
 #root {
